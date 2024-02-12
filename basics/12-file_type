@@ -1,2 +1,2 @@
 #!/bin/bash
--F /tpm/iamafile
+file -v /tpm/iamafile
