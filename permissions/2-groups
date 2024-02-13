@@ -1,2 +1,2 @@
 #!/bin/bash
-i/etc/group
+/etc/group
