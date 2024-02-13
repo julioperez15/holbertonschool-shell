@@ -1,2 +1,2 @@
 #!/bin/bash
-/tpm chmod -R
+chmod 753 -R hello olleh
