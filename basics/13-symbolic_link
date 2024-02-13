@@ -1,2 +1,2 @@
 #!/bin/bash
-mklink /bin/lsi _ls_
+ln ~s /bin/lsi _ls_
