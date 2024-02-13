@@ -1,2 +1,2 @@
 #!/bin/bash
-/tpm/ chmod -R
+/tpm chmod -R
