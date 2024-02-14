@@ -1,2 +1,2 @@
 #!/bin/bash
--type d ! -path . | wc -l
+type d ! -path . | wc -l
