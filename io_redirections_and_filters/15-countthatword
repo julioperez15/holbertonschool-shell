@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -f PATTERN_ bin /etc/passwd
+grep PATTERNS bin /etc/passwd
