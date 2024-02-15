@@ -1,2 +1,2 @@
 #!/bin/bash
-echo dir $bash wc
+echo dir $BASH wc
