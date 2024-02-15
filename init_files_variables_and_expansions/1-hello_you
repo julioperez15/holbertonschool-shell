@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv hell user
+printenv hello user
