@@ -1,2 +1,2 @@
 #!/bin/bash
-grep / | wc
+find . type d | wc
