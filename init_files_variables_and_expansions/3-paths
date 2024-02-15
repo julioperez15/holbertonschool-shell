@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH |tr dir | wc -l
+echo $PATH | sort dir | wc -l
