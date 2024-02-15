@@ -1,2 +1,2 @@
 #!/bin/bash
-echo dir $PATH wc
+echo $PATH |tr dir | wc -l
