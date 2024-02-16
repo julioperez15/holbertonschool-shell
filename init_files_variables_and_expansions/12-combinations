@@ -1,2 +1,2 @@
 #!/bin/bash
-echo <[:ls a-z:]> 
+echo {a..z}{a..z} | tr "aa" | grep -v oo
